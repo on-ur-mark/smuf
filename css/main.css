@@ -727,7 +727,7 @@ aside {
   position: absolute;
   right: 0;
   top: 0;
-  background-image: url(/img/ticket_circle.png);
+  background: url('../img/ticket_circle.png');
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center;
@@ -760,7 +760,7 @@ aside > a + a .onTkt .back {
   position: absolute;
   right: 0;
   top: 0;
-  background-image: url(/img/ticket_circle_2.png);
+  background: url('../img/ticket_circle_2.png');
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center;

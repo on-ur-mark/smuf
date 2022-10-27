@@ -69,14 +69,14 @@
     --wave: 11.4167vw;
   }
 
-  /* aside */
+  /* aside */ 
 
   aside {
     right: 30px;
   }
 
   .onTkt {
-    width: 150px;
+    width: 145px;
     height: 160px;
   }
 
@@ -369,8 +369,8 @@
   }
   
   .onTkt {
-    width: 125px;
-    height: 115px;
+    width: 120px;
+    height: 140px;
   }
 
   .onTkt .circle{

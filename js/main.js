@@ -17,3 +17,17 @@ $(function(){
     }, 400);
   });
 });
+
+
+
+$(window).scroll(function(){
+  let yOffset = window.pageYOffset;
+  let calc = yOffset / ($('body').outerHeight() - $(window).outerHeight());
+  
+  $('.onTkt .back').css({
+      'transform' : `rotate(${calc*360}deg)`
+  });
+
+});
+
+
